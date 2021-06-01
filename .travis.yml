@@ -20,3 +20,6 @@ deploy:
     tags: true
     branch: tag
     repo: KirinR/Travis_CI_Tutorial
+notifications:
+ email:
+   - 3261107288@qq.com
